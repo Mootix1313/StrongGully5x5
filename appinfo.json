@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rachellehcar.gully1@gmail.com",
+    "longName": "StrongGully 5x5",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "StrongGully 5x5",
+    "uuid": "12157488-80ed-4868-bb0c-00dda97ba387",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
